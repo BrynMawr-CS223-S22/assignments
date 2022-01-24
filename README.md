@@ -1,7 +1,8 @@
 # Assignments
 Assignments for CS223: Systems Programming
 
-* [Assignment 00](https://brynmawr-cs223-s22.github.io/website/assts/asst00.html)
+* [Assignment 00: Hello CS223](https://brynmawr-cs223-s22.github.io/website/assts/asst00.html)
+* [Assignment 01: Learning to C](https://brynmawr-cs223-s22.github.io/website/assts/asst01.html)
 
 # Resources
 
