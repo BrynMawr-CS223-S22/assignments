@@ -30,4 +30,5 @@ Course textbook: https://diveintosystems.org/
 
 **Makefiles**
 
+* [GNU Makefile Reference](https://www.gnu.org/software/make/manual/make.html)
 * [Tutorial with examples](https://web.mit.edu/gnu/doc/html/make_2.html)
