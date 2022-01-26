@@ -1,7 +1,8 @@
 # Assignments
 Assignments for CS223: Systems Programming
 
-* [Assignment 00](https://brynmawr-cs223-s22.github.io/website/assts/asst00.html)
+* [Assignment 00: Hello CS223](https://brynmawr-cs223-s22.github.io/website/assts/asst00.html)
+* [Assignment 01: Learning to C](https://brynmawr-cs223-s22.github.io/website/assts/asst01.html)
 
 # Resources
 
@@ -29,4 +30,5 @@ Course textbook: https://diveintosystems.org/
 
 **Makefiles**
 
+* [GNU Makefile Reference](https://www.gnu.org/software/make/manual/make.html)
 * [Tutorial with examples](https://web.mit.edu/gnu/doc/html/make_2.html)
