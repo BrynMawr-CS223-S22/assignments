@@ -5,6 +5,7 @@ Assignments for CS223: Systems Programming
 * [Assignment 01: Learn to C](https://brynmawr-cs223-s22.github.io/website/assts/asst01.html)
 * [Assignment 02: If you malloc something, set it free](https://brynmawr-cs223-s22.github.io/website/assts/asst02.html)
 * [Assignment 03: Watch where you point](https://brynmawr-cs223-s22.github.io/website/assts/asst03.html)
+* [Assignment 04: Don't be afraid to ASCII](https://brynmawr-cs223-s22.github.io/website/assts/asst04.html)
 
 # Resources
 
