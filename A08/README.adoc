@@ -1,0 +1,21 @@
+= Hardware specifications
+
+Where did your run your tests? A laptop, or goldengate?
+
+
+What are the performance specifications of the machine: number and speed of
+processors, size of RAM? (use `lscpu` and `free -m`)
+
+
+= Allocations
+
+In `simple.c`, where does the increase in 1040 bytes come from?
+Why is the value 1040 bytes?
+
+
+How many bytes does `mylloc_list.c` allocate when the program ends? Explain why
+this amount makes sense.
+
+
+= Fragementation
+
