@@ -8,6 +8,10 @@ Assignments for CS223: Systems Programming
 * [Assignment 04: Don't be afraid to ASCII](https://brynmawr-cs223-s22.github.io/website/assts/asst04.html)
 * [Assignment 05: Give a little bit](https://brynmawr-cs223-s22.github.io/website/assts/asst05.html)
 * [Assignment 06: Secret messages](https://brynmawr-cs223-s22.github.io/website/assts/asst06.html)
+* [Assignment 07: Some assembly required](https://brynmawr-cs223-s22.github.io/website/assts/asst07.html)
+* [Assignment 08: Hold onto your memories](https://brynmawr-cs223-s22.github.io/website/assts/asst08.html)
+* [Assignment 09: Many processes make light work](https://brynmawr-cs223-s22.github.io/website/assts/asst09.html)
+* [Assignment 10: Follow the thread](https://brynmawr-cs223-s22.github.io/website/assts/asst10.html)
 
 # Resources
 
